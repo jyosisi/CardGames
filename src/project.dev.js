@@ -36,7 +36,7 @@ window.__require = function e(t, n, r) {
         webView: cc.WebView
       },
       onLoad: function onLoad() {
-        this.webView.url = "http://www.baidu.com";
+        this.webView.url = "https://www.baidu.com";
         this.popup.active = false;
         this.gameCanvas = document.getElementsByClassName("gameCanvas")[0];
         this.gameCanvas.style.position = "relative";
