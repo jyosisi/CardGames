@@ -55,15 +55,15 @@ window.__require = function e(t, n, r) {
       },
       onSpadesBtnClicked: function onSpadesBtnClicked() {
         this.onPopupCloseBtnClicked();
-        this.webView.url = "http://www.baidu.com";
+        this.webView.url = "https://www.baidu.com";
       },
       onGinRummyBtnClicked: function onGinRummyBtnClicked() {
         this.onPopupCloseBtnClicked();
-        this.webView.url = "http://www.cocos.com";
+        this.webView.url = "https://www.cocos.com";
       },
       onPattiBtnClicked: function onPattiBtnClicked() {
         this.onPopupCloseBtnClicked();
-        this.webView.url = "http://www.163.com";
+        this.webView.url = "https://www.163.com";
       }
     });
     cc._RF.pop();
