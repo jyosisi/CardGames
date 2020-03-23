@@ -212,7 +212,7 @@
         "__id__": 4
       },
       "_useOriginalSize": false,
-      "_url": "http://www.baidu.com",
+      "_url": "https://www.baidu.com",
       "webviewEvents": [
         {
           "__type__": "cc.ClickEvent",
