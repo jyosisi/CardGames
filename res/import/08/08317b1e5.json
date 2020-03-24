@@ -162,7 +162,7 @@
         "array": [
           0,
           0,
-          318.29681712922275,
+          317.9442252215195,
           0,
           0,
           0,
@@ -302,15 +302,15 @@
             }
           ],
           "_useOriginalSize": false,
-          "_string": "Top Bar",
-          "_N$string": "Top Bar",
+          "_string": "Cocos Creator 2.2.2 Test",
+          "_N$string": "Cocos Creator 2.2.2 Test",
           "_N$horizontalAlign": 1,
           "_N$verticalAlign": 1
         }
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 137.85,
+        "width": 442.42,
         "height": 50.4
       },
       "_trs": {
@@ -686,9 +686,8 @@
       ],
       "_color": {
         "__type__": "cc.Color",
-        "r": 128,
-        "g": 128,
-        "b": 128
+        "g": 220,
+        "b": 250
       },
       "_contentSize": {
         "__type__": "cc.Size",
